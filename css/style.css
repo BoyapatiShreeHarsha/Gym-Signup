@@ -1,0 +1,8 @@
+/* CSS reset */
+
+body{
+    margin:0px;
+    padding:0px;
+    background-image: url("../img/human.jpg");
+    background-size: cover;
+}
